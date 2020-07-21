@@ -1,6 +1,6 @@
 # Xtrm
 
-An extremely borderless mechanical keyboard PCB. 40% staggered layout with an encoder, runs [QMK firmware](https://github.com/myst729/qmk_firmware/tree/master/keyboards/dg/xtrm).
+Extremely borderless mechanical keyboard PCB. 40% staggered layout with an encoder, runs [QMK firmware](https://github.com/myst729/qmk_firmware/tree/master/keyboards/dg/xtrm).
 
 
 ## Tools
