@@ -55,3 +55,7 @@ R3 | Ctrl  | GUI |     | Alt |     | Space |     | Fn  | Fn2 |  Left  | Down |  
 ## Pictures
 
 ![](images/preview.jpg)
+
+![](images/pcb.jpg)
+
+![](images/kit.jpg)
