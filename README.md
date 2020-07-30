@@ -2,6 +2,7 @@
 
 Extremely borderless mechanical keyboard PCB. 40% staggered layout with an encoder, runs [QMK firmware](https://github.com/myst729/qmk_firmware/tree/master/keyboards/dg/xtrm).
 
+![](images/xtrm.gif)
 
 ## Wiring
 
@@ -54,8 +55,14 @@ R3 | Ctrl  | GUI |     | Alt |     | Space |     | Fn  | Fn2 |  Left  | Down |  
 
 ## Pictures
 
-![](images/preview.jpg)
+![](images/keyboard/preview.jpg)
 
-![](images/pcb.jpg)
+![](images/keyboard/pcb.jpg)
 
-![](images/kit.jpg)
+![](images/keyboard/kit.jpg)
+
+![](images/keyboard/knob.jpg)
+
+![](images/keyboard/almost.jpg)
+
+![](images/keyboard/finished.jpg)
