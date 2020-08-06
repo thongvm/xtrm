@@ -57,9 +57,9 @@ R3 | Ctrl  | GUI |     | Alt |     | Space |     | Fn  | Fn2 |  Left  | Down |  
 
 ![](images/keyboard/preview.jpg)
 
-![](images/keyboard/pcb.jpg)
-
 ![](images/keyboard/kit.jpg)
+
+![](images/keyboard/pcb.jpg)
 
 ![](images/keyboard/knob.jpg)
 
