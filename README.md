@@ -4,6 +4,8 @@ Extremely borderless mechanical keyboard PCB. 40% staggered layout with an encod
 
 ![](images/xtrm.gif)
 
+[On homemade keyboards](https://myst729.github.io/posts/2020/xtrm-40-keyboard/) (written in Chinese).
+
 ## Wiring
 
 ```
